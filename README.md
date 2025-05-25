@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @muktargazali
+mubarraqqq
 - 👀 I’m interested in Artificial intelligence 
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on ...
