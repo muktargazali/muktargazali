@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muktargazali
-- 👀 I’m interested in html
-- 🌱 I’m currently learning front end web development
+- 👀 I’m interested in Artificial intelligence 
+- 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gazalimuktar44@gmail.com
 - 😄 Pronouns: ...
